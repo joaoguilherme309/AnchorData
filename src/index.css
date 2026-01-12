@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.clip-path-login {
+  clip-path: polygon(0 0, 100% 0, 0 100%);
+}
+
